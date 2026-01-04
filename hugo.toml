@@ -16,9 +16,10 @@ ignoreErrors = ["error-remote-getjson"]
   color = 'linen'
   github = 'mccabematthew'
   instagram = '_matthew_mccabe'
+  linkedin = 'matt-james-mccabe'
   avatar = 'matthew.james.mccabe@outlook.com'
-  name = 'Matt'
-  bio = 'I like dogs, and other animals as well'
+  name = 'Matt McCabe'
+  bio = 'I like dogs, and other animals too'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
