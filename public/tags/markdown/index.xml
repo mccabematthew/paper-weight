@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>@ 2026 JSON Alexander</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
+      <title>Week 1 in Hugo Hell</title>
       <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;It&amp;rsquo;s actually pretty sweet and easy to use, alliteration is just funny.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
