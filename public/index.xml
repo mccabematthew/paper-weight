@@ -21,7 +21,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Paper Weight is a blog with a single utility:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Writing down what I Learn&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Basically it&amp;rsquo;s a trash basket for me to shoot crinkled up notes after implementing&#xA;things that I think I would forget, or &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;rubber duck debugging&lt;/a&gt;&#xA;for the sake of learning. Also it&amp;rsquo;s a use case for me to learn hugo.&lt;/p&gt;&#xA;&lt;p&gt;For technical docs:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Paper Weight is a blog with a single purpose:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Writing down what I Learn&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Basically it&amp;rsquo;s a trash basket for me to shoot crinkled up notes after implementing&#xA;things that I think I would forget, or &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;&lt;em&gt;rubber duck debugging&lt;/em&gt;&lt;/a&gt;&#xA;for the sake of learning. I lied about the single purpose, it&amp;rsquo;s also here for me to learn hugo&#xA;by writing components to extend my web sites, and to show pictures and stuff cuz readin is 4 lozers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
