@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>@ 2026 JSON Alexander</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 1 in Hugo Hell</title>
@@ -17,11 +17,11 @@
       <description>&lt;p&gt;It&amp;rsquo;s actually pretty sweet and easy to use, alliteration is just funny.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>New Years Resolutions</title>
+      <link>http://localhost:1313/post/newyear-resolutions/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/newyear-resolutions/</guid>
+      <description>&lt;p&gt;I haven&amp;rsquo;t really even considered making these until today, but I&amp;rsquo;ve been moving towards more of a&#xA;productive and healthy lifestyle for a few months now. I feel like I should still give names to&#xA;the ideas though, and there are plenty of good changes I want to implement.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-mammal-vice&#34;&gt;1. Mammal Vice&lt;/h2&gt;&#xA;&lt;p&gt;Eating bad food because my brain signals it, staying up to late for whatever reason, quitting on&#xA;things because they are legitimately difficult and I don&amp;rsquo;t have to do them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

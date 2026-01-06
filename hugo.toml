@@ -14,10 +14,9 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
   color = 'linen'
-  github = 'mccabematthew'
+  avatar = '/img/avatar.png'
   instagram = '_matthew_mccabe'
   linkedin = 'matt-james-mccabe'
-  avatar = 'matthew.james.mccabe@outlook.com'
   name = 'Matt McCabe'
   bio = 'I like dogs, and other animals too'
 # ------------------------------
