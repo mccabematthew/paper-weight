@@ -1,8 +1,8 @@
 +++
-author = "lee.so"
-title = "Rich Content"
-date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+author = "JSON Alexander"
+title = "Burritos & Algos"
+date = "2026-01-10"
+description = "Adhd madness in writing"
 tags = [
     "shortcodes",
     "privacy",
