@@ -35,12 +35,14 @@ and deserve the time and effort, then I refuse to comprimise on them (but they n
 For this game, the first vertical slice will be a demo staged across 3-4 sprints over 4 months.
 
 Next I need to
+- GDD
 - Define the goals of the demo
 - Create my principles and success criteria
 - architect core systems and loop
 - Define the atmosphere (maybe most important)
 
 ---
+
 ## Resources to come back to
 - [Game Devops with Go](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)
 - [Outlast Case Study](https://www.reddit.com/r/gamedev/comments/2cpdz5/archive_study_outlast_part_1_a_game_design/) <!--In google docs for archive-->
